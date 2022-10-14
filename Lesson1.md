@@ -17,3 +17,8 @@ ___
    * SubPotion2
 * Potion 2
 * Potion 3
+___
+### Fried
+1. Potato
+2. Chips
+___
