@@ -24,7 +24,16 @@ ___
 ___
 [GeekBrains](http://gb.ru)
 ```
-while(index<size)
+white (index<size) do      
+
+    if (munbers[index]>max then
+        max=numbers[index]
+    index=index+1
+print(max)
 ```
 
+___
+>HOMINEM AMPLIUS OCULIS, QUAM AURIBUS CREDUNT
+>
+>*I'm*
 
