@@ -23,4 +23,8 @@ ___
 2. Chips
 ___
 [GeekBrains](http://gb.ru)
+```
+while(index<size)
+```
+
 
