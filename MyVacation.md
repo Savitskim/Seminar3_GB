@@ -5,9 +5,7 @@
 ____
 
 ## Планирую посетить **ОАЭ**
-<video width="320" height="240" controls>
-  <source src="oae.mp4" type="video/mp4">
-</video>
+
 
 <br>
 
