@@ -16,7 +16,9 @@
 ____
 
 ## Планирую посетить **ОАЭ**
-Государство ОАЭ расположено в юго-западной части Азии, восточной части Аравийского полуострова. Граничит с Саудовской Аравией на западе и юге, с Оманом — на юго-востоке и на северо-востоке (оманский полуанклав губернаторство Мусандам и его полный анклав, вилайет Мусандама Мадха). Омывается водами Персидского и Оманского заливов.
+<video width="320" height="240" controls>
+  <source src="oae.mp4" type="video/mp4">
+</video>
 
 >[Геолокация](https://yandex.by/maps/?ll=54.035798%2C24.388821&mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgoxNTIwMDA1NDExEi7Yp9mE2KXZhdin2LHYp9iqINin2YTYudix2KjZitipINin2YTZhdiq2K3Yr9ipIgoNdTpYQhVv0rxB&z=7.79)
 
