@@ -8,7 +8,7 @@
 
 <br>
 
-![Australia_sidnei](australia.jpg)
+![Australia_sidnei](au2.jpg)
 ____
 
 ## Планирую посетить **ОАЭ**
